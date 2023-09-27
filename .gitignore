@@ -1,0 +1,5 @@
+venv/
+greet/app.py:Zone.identifier/
+greet/test.py:Zone.identifier/
+calc/app.py:Zone.identifier/
+calc/operations.py:Zone.identifier/
